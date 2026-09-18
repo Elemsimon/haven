@@ -86,10 +86,10 @@ export default function About() {
           {/* Right: Stats grid */}
           <div className="grid grid-cols-2 gap-px bg-white/5">
             {[
-              { value: "56", unit: "", label: "Curated Suites" },
-              { value: "2023", unit: "", label: "Est. Year" },
-              { value: "2,200", unit: "m", label: "Altitude" },
-              { value: "3", unit: "★", label: "Michelin Stars" },
+              { value: "65", unit: "", label: "Curated Rooms" },
+              { value: "2020", unit: "", label: "Est. Year" },
+              { value: "3.8", unit: "", label: "Average Star" },
+              { value: "65", unit: "", label: "On-site Guest Capacity" },
             ].map((stat, i) => (
               <div
                 key={stat.label}
