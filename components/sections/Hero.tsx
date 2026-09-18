@@ -18,8 +18,8 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/hero2.png"
-          alt="Ryan Hotel — woman relaxing in infinity pool with alpine mountain views"
+          src="/hero6.jpg"
+          alt=" Geneza Hotel — relaxing in infinity pool with alpine mountain views"
           fill
           priority
           className="object-cover object-center"
@@ -50,7 +50,7 @@ export default function Hero() {
               className="font-body text-xs tracking-[0.35em] uppercase text-white/60 mb-6 animate-fade-in"
               style={{ animationDelay: "200ms", animationFillMode: "both" }}
             >
-               Luxury Since 2023
+               Luxury Since 2021
             </p>
 
             {/* Main heading — matching Figma: large italic serif */}
@@ -63,7 +63,7 @@ export default function Hero() {
                 textShadow: "0 2px 40px rgba(0,0,0,0.3)",
               }}
             >
-              Explore Ryan
+              Explore Geneza
               <br />
                 Hotel
             </h1>

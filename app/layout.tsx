@@ -1,14 +1,13 @@
 import type { Metadata } from "next";
-import "./globals.css";
 import { Toaster } from "react-hot-toast";
 
 export const metadata: Metadata = {
-  title: "Ryan Hotel — Luxury Retreat",
+  title: "Geneza Hotel — Luxury Retreat",
   description:
-    "Experience unparalleled luxury at Ryan Hotel. Nestled in the Alps, offering exquisite rooms, world-class spa, and breathtaking views.",
-  keywords: "luxury hotel, Ryan Hotel",
+    "Experience unparalleled luxury at Geneza Hotel. Nestled in the Alps, offering exquisite rooms, world-class spa, and breathtaking views.",
+  keywords: "luxury hotel, Geneza Hotel",
   openGraph: {
-    title: "Ryan Hotel",
+    title: "Geneza Hotel",
     description: "Luxury Retreat in the Alps",
     type: "website",
   },

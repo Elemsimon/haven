@@ -6,7 +6,7 @@ export default function NotFound() {
     <div className="min-h-screen bg-stone-900 flex flex-col items-center justify-center px-6 text-center">
       {/* Logo */}
       <Link href="/" className="font-serif text-3xl italic text-cream hover:text-gold-300 transition-colors duration-300 mb-16">
-        Ryan
+        Geneza Hotel
       </Link>
 
       {/* Number */}

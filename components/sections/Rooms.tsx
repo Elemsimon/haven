@@ -11,7 +11,7 @@ const rooms = [
     type: "Suite",
     size: "65 m²",
     view: "Mountain View",
-    price: "€680",
+    price: "₦68,000",
     description:
       "Floor-to-ceiling windows frame the Matterhorn. Reclaimed oak floors, a wood-burning fireplace, and a deep soaking tub define this signature suite.",
     image:
@@ -24,7 +24,7 @@ const rooms = [
     type: "Penthouse",
     size: "140 m²",
     view: "360° Panorama",
-    price: "€1,480",
+    price: "₦110,000",
     description:
       "Two levels of pure elevation. Private rooftop terrace with heated plunge pool, chef's kitchen, and bespoke art collection curated for each stay.",
     image:
@@ -37,7 +37,7 @@ const rooms = [
     type: "Studio",
     size: "42 m²",
     view: "Forest View",
-    price: "€390",
+    price: "₦30,000",
     description:
       "An intimate retreat wrapped in larch wood and natural stone. Perfect for solo travellers seeking stillness and the scent of pine at dawn.",
     image:

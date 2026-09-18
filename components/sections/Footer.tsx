@@ -62,16 +62,16 @@ export default function Footer() {
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
             <Link href="/" className="font-serif text-3xl italic text-cream hover:text-gold-300 transition-colors duration-300 block mb-4">
-              Ryan
+              Geneza Hotel
             </Link>
             <p className="font-body text-xs text-stone-500 leading-[1.8] mb-6">
-              Ryan Hotel<br />
+              Geneza Hotel<br />
               32 Onwe Rd<br />
               Abakaliki 480108<br />
               Ebonyi
             </p>
             <a href="tel:+41276780000" className="font-body text-xs text-stone-400 hover:text-cream transition-colors duration-300 block mb-1">+41 27 678 0000</a>
-            <a href="mailto:hello@ryanhotel.com" className="font-body text-xs text-stone-400 hover:text-cream transition-colors duration-300 block">hello@ryanhotel.com</a>
+            <a href="mailto:hello@newhavenhotel.com" className="font-body text-xs text-stone-400 hover:text-cream transition-colors duration-300 block">hello@newhavenhotel.com</a>
           </div>
 
           {/* Link columns */}
@@ -96,7 +96,7 @@ export default function Footer() {
       <div className="border-t border-white/5">
         <div className="max-w-7xl mx-auto px-6 md:px-12 py-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="font-body text-[11px] text-stone-600">
-            © {new Date().getFullYear()} RyanHotel. All rights reserved.
+            © {new Date().getFullYear()} Geneza Hotel. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             {["Instagram", "Facebook", "LinkedIn"].map((s) => (

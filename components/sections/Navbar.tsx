@@ -57,7 +57,7 @@ export default function Navbar() {
               href="/"
               className="font-serif text-2xl italic text-white tracking-wide hover:text-gold-300 transition-colors duration-300"
             >
-              Ryan
+              Geneza Hotel
             </Link>
           </div>
 
@@ -100,7 +100,7 @@ export default function Navbar() {
         </button>
 
         <div className="absolute top-6 left-1/2 -translate-x-1/2">
-          <span className="font-serif text-2xl italic text-white">Ryan</span>
+          <span className="font-serif text-2xl italic text-white">Geneza</span>
         </div>
 
         <div className="flex flex-col items-center justify-center h-full gap-1">

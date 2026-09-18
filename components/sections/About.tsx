@@ -55,7 +55,7 @@ export default function About() {
               className="reveal font-body text-sm leading-[1.9] text-stone-400 mb-6 transition-all duration-700"
               style={{ opacity: 0, transform: "translateY(24px)" }}
             >
-              Perched at 2,200 metres above sea level, RyanHotel has been a sanctuary
+              Perched at 2,200 metres above sea level, Geneza Hotel has been a sanctuary
               for discerning travellers since 1968. Our philosophy is simple: nature&apos;s
               grandeur deserves an equally extraordinary stage.
             </p>
@@ -86,10 +86,10 @@ export default function About() {
           {/* Right: Stats grid */}
           <div className="grid grid-cols-2 gap-px bg-white/5">
             {[
-              { value: "56", unit: "", label: "Curated Suites" },
-              { value: "2023", unit: "", label: "Est. Year" },
-              { value: "2,200", unit: "m", label: "Altitude" },
-              { value: "3", unit: "★", label: "Michelin Stars" },
+              { value: "65", unit: "", label: "Curated Rooms" },
+              { value: "2021", unit: "", label: "Est. Year" },
+              { value: "4.2", unit: "", label: "Average Star" },
+              { value: "65", unit: "", label: "On-site Guest Capacity" },
             ].map((stat, i) => (
               <div
                 key={stat.label}

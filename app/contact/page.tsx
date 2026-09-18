@@ -22,8 +22,8 @@ const contactInfo = [
   {
     icon: <Mail size={16} strokeWidth={1.5} />,
     label: "Email",
-    value: "hello@Ryan Hotel.com",
-    href: "mailto:hello@ryanhotel.com",
+    value: "hello@newhavenhotel.com",
+    href: "mailto:hello@newhavenhotel.com",
   },
   {
     icon: <Clock size={16} strokeWidth={1.5} />,
@@ -62,7 +62,7 @@ export default function ContactPage() {
         <div className="relative h-56 md:h-72 overflow-hidden">
           <Image
             src="https://images.unsplash.com/photo-1551632811-561732d1e306?w=1920&q=80"
-            alt="Contact Ryan Hotel"
+            alt="Contact Geneza Hotel"
             fill
             className="object-cover object-center"
             priority
@@ -97,8 +97,8 @@ export default function ContactPage() {
             </h2>
             <p className="font-body text-sm text-stone-400 leading-[1.9] mb-12 max-w-md">
               Whether you have questions about your upcoming stay, wish to arrange
-              a special experience, or simply want to know more about Ryan
-              Heights — our team is at your service.
+              a special experience, or simply want to know more about Geneza Hotel
+              — our team is at your service.
             </p>
 
             {/* Contact Details */}

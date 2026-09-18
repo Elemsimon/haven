@@ -19,7 +19,7 @@ export default function StudioPage() {
 
   return (
     <div className="min-h-screen bg-stone-900 flex flex-col items-center justify-center gap-6 px-6 text-center">
-      <span className="font-serif text-3xl italic text-cream">Ryan</span>
+      <span className="font-serif text-3xl italic text-cream">Geneza Hotel</span>
       <div>
         <h1 className="font-serif italic text-2xl text-cream mb-3">CMS Studio</h1>
         <p className="font-body text-sm text-stone-400 max-w-sm">
