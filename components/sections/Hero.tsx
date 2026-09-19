@@ -18,7 +18,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/hero6.jpg"
+          src="/hero6.JPG"
           alt=" Geneza Hotel — relaxing in infinity pool with alpine mountain views"
           fill
           priority
