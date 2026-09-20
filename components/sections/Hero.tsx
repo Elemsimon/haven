@@ -18,8 +18,8 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/hero6.JPG"
-          alt=" Geneza Hotel — relaxing in infinity pool with alpine mountain views"
+          src="/hero5.PNG"
+          alt=" New Haven Hotel — relaxing in infinity pool with alpine mountain views"
           fill
           priority
           className="object-cover object-center"
@@ -63,7 +63,7 @@ export default function Hero() {
                 textShadow: "0 2px 40px rgba(0,0,0,0.3)",
               }}
             >
-              Explore Geneza
+              Explore New Haven
               <br />
                 Hotel
             </h1>

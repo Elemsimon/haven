@@ -55,7 +55,7 @@ export default function About() {
               className="reveal font-body text-sm leading-[1.9] text-stone-400 mb-6 transition-all duration-700"
               style={{ opacity: 0, transform: "translateY(24px)" }}
             >
-              Perched at 2,200 metres above sea level, Geneza Hotel has been a sanctuary
+              Perched at 2,200 metres above sea level, New Haven Hotel has been a sanctuary
               for discerning travellers since 1968. Our philosophy is simple: nature&apos;s
               grandeur deserves an equally extraordinary stage.
             </p>

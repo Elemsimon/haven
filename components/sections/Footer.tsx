@@ -62,11 +62,11 @@ export default function Footer() {
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
             <Link href="/" className="font-serif text-3xl italic text-cream hover:text-gold-300 transition-colors duration-300 block mb-4">
-              Geneza Hotel
+              New Haven Hotel
             </Link>
             <p className="font-body text-xs text-stone-500 leading-[1.8] mb-6">
-              Geneza Hotel<br />
-              32 Onwe Rd<br />
+              New Haven Hotel<br />
+              2 Vista Oge Crescent,<br />
               Abakaliki 480108<br />
               Ebonyi
             </p>
@@ -96,7 +96,7 @@ export default function Footer() {
       <div className="border-t border-white/5">
         <div className="max-w-7xl mx-auto px-6 md:px-12 py-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="font-body text-[11px] text-stone-600">
-            © {new Date().getFullYear()} Geneza Hotel. All rights reserved.
+            © {new Date().getFullYear()} New Haven Hotel. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             {["Instagram", "Facebook", "LinkedIn"].map((s) => (

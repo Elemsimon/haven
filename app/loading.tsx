@@ -7,7 +7,7 @@ export default function Loading() {
           className="font-serif text-4xl italic text-cream animate-pulse"
           style={{ animationDuration: "2s" }}
         >
-          Geneza Hotel
+          New Haven Hotel
         </span>
         {/* Spinner ring */}
         <div className="w-10 h-10 rounded-full border border-white/10 border-t-gold-500 animate-spin" />

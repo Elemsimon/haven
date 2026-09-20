@@ -32,13 +32,13 @@ const galleryImages = [
   {
     id: 5,
     src: "/g2.jpg",
-    alt: "Mountain hiking experience at Geneza Hotel",
+    alt: "Mountain hiking experience at New Haven Hotel",
     span: "col-span-1 row-span-1",
   },
 /*   {
     id: 6,
     src: "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=600&q=80",
-    alt: "Cozy fireplace lounge at Geneza Hotel",
+    alt: "Cozy fireplace lounge at New Haven Hotel",
     span: "col-span-2 row-span-1",
   }, */
 ];
@@ -91,7 +91,7 @@ export default function Gallery() {
             </h2>
           </div>
           <p className="font-body text-sm text-stone-400 max-w-xs">
-            A glimpse into the world of Geneza Hotel where every frame is worthy of the wall.
+            A glimpse into the world of New Haven Hotel where every frame is worthy of the wall.
           </p>
         </div>
 

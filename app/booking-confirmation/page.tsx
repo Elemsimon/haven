@@ -67,7 +67,7 @@ function ConfirmationContent() {
           : "Your stay is confirmed"}
       </h1>
       <p className="font-body text-sm text-stone-400 leading-[1.9] mb-10 max-w-md mx-auto">
-        Your reservation at Geneza Hotel has been confirmed. A confirmation
+        Your reservation at New Haven Hotel has been confirmed. A confirmation
         email has been sent to{" "}
         <span className="text-cream">{details?.guestEmail ?? "your email address"}</span>.
         Our concierge team will be in touch within 24 hours.
@@ -171,7 +171,7 @@ export default function BookingConfirmationPage() {
         <div className="relative h-48 overflow-hidden">
           <Image
             src="https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1920&q=60"
-            alt="Geneza Hotel"
+            alt="New Haven Hotel"
             fill
             className="object-cover object-center opacity-40"
           />

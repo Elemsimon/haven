@@ -67,7 +67,7 @@ export default function Experiences() {
             <span className="w-8 h-px bg-gold-500" />
           </span>
           <h2 className="font-serif italic text-5xl md:text-6xl text-cream leading-[1.1]">
-            The Geneza Experience
+            The New Haven Experience
           </h2>
         </div>
 

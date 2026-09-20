@@ -35,8 +35,8 @@ export default function CTA() {
       {/* Background */}
       <div className="absolute inset-0">
         <Image
-          src="/hero6.JPG"
-          alt="Geneza Hotel exterior at dusk"
+          src="/hero5.PNNG"
+          alt="New Haven Hotel exterior at dusk"
           fill
           className="object-cover object-center"
           sizes="100vw"
@@ -74,7 +74,7 @@ export default function CTA() {
           style={{ opacity: 0, transform: "translateY(20px)" }}
         >
           A world away from everything. Plan your escape
-          to Geneza Hotel where the mountains do the talking and time
+          to New Haven Hotel where the mountains do the talking and time
           gracefully slows.
         </p>
 

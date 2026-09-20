@@ -3,12 +3,12 @@ import { Toaster } from "react-hot-toast";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Geneza Hotel — Luxury Retreat",
+  title: "New Haven Hotel — Luxury Retreat",
   description:
-    "Experience unparalleled luxury at Geneza Hotel. Nestled in the Alps, offering exquisite rooms, world-class spa, and breathtaking views.",
-  keywords: "luxury hotel, Geneza Hotel",
+    "Experience unparalleled luxury at New Haven Hotel. Nestled in the Alps, offering exquisite rooms, world-class spa, and breathtaking views.",
+  keywords: "luxury hotel, New Haven Hotel",
   openGraph: {
-    title: "Geneza Hotel",
+    title: "New Haven Hotel",
     description: "Luxury Retreat in the Alps",
     type: "website",
   },

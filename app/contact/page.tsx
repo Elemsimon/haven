@@ -62,7 +62,7 @@ export default function ContactPage() {
         <div className="relative h-56 md:h-72 overflow-hidden">
           <Image
             src="https://images.unsplash.com/photo-1551632811-561732d1e306?w=1920&q=80"
-            alt="Contact Geneza Hotel"
+            alt="Contact New Haven Hotel"
             fill
             className="object-cover object-center"
             priority
@@ -97,7 +97,7 @@ export default function ContactPage() {
             </h2>
             <p className="font-body text-sm text-stone-400 leading-[1.9] mb-12 max-w-md">
               Whether you have questions about your upcoming stay, wish to arrange
-              a special experience, or simply want to know more about Geneza Hotel
+              a special experience, or simply want to know more about New Haven Hotel
               — our team is at your service.
             </p>
 
