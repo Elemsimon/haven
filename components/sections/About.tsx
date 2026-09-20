@@ -87,8 +87,8 @@ export default function About() {
           <div className="grid grid-cols-2 gap-px bg-white/5">
             {[
               { value: "65", unit: "", label: "Curated Rooms" },
-              { value: "2021", unit: "", label: "Est. Year" },
-              { value: "4.2", unit: "", label: "Average Star" },
+              { value: "2020", unit: "", label: "Est. Year" },
+              { value: "3.8", unit: "", label: "Average Star" },
               { value: "65", unit: "", label: "On-site Guest Capacity" },
             ].map((stat, i) => (
               <div
