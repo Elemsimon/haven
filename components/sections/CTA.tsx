@@ -35,7 +35,7 @@ export default function CTA() {
       {/* Background */}
       <div className="absolute inset-0">
         <Image
-          src="/hero5.PNNG"
+          src="/hero5.PNG"
           alt="New Haven Hotel exterior at dusk"
           fill
           className="object-cover object-center"
