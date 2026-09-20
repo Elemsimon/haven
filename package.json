@@ -15,7 +15,7 @@
     "install": "^0.13.0",
     "lucide-react": "^0.383.0",
     "next": "14.2.3",
-    "next-sanity": "^7.0.0",
+    "next-sanity": "^9.4.0",
     "npm": "^11.19.0",
     "react": "^18",
     "react-datepicker": "^4.25.0",
