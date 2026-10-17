@@ -34,7 +34,7 @@ export default function RootLayout({
         />
         {children}
       </body>
-      
+      <script src="https://aidevelopia.com/developia.js" data-api-key="RHi4kOmcyfAKfvDEZhDEereYUNvptYOE"></script>
     </html>
   );
 }
